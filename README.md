@@ -78,13 +78,12 @@
   - Theme: Player positioning and goal correlation  
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=user&theme=transparent&border_radius=10" />
-  <br><br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=user&custom_title=My%20GitHub%20Activity&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area=true&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Tsuji-Yugo&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&theme=transparent" />
 </div>
+
 
 ---
 
