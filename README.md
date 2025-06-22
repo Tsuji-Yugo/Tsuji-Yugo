@@ -27,7 +27,7 @@
 ### 👋 I'm Yugo Tsuji
 🚀 Information Engineering student at Kanazawa Institute of Technology  
 💡 Passionate about Web development, Data Science, and Educational Innovation  
-🌍 Based in Wakayama / Kanazawa  
+🌍 Based in Kanazawa  
 📚 Currently developing a point-based app with Hachiban Ramen 🍜  
 🧠 Learning how data and tech can transform education & society
 
@@ -49,26 +49,17 @@
 <img src="https://skillicons.dev/icons?i=nextjs,react,js,ts,html,css" />
 
 ### 🔧 Tools & Platforms
-<img src="https://skillicons.dev/icons?i=vscode,github,docker,nginx,vercel,postman" />
-
-### ☁️ BaaS / Auth
-<img src="https://skillicons.dev/icons?i=firebase,supabase" />
+<img src="https://skillicons.dev/icons?i=vscode,github,docker,vercel" />
 
 </td>
 <td width="50%" align="center" valign="top">
 
 ### 📊 Data Science & ML
 <img src="https://skillicons.dev/icons?i=python,sqlite,mysql" />
-<p>Using pandas, scikit-learn, matplotlib, seaborn etc.</p>
+<p>Using pandas, matplotlib, seaborn etc.</p>
 
 ### 🎨 Design / UI
-<img src="https://skillicons.dev/icons?i=figma,xd" />
-
-### 📚 Others
-- GitHub Projects for PM
-- REST API design
-- ESLint / Prettier / CI basics
-
+<img src="https://skillicons.dev/icons?i=figma" />
 </td>
 </tr>
 </table>
@@ -85,15 +76,6 @@
 - 📈 **Soccer Data Analysis for Competitions**  
   - Used: Python, pandas, matplotlib  
   - Theme: Player positioning and goal correlation  
-
-- 🏫 **Educational Game (National Census Awareness)**  
-  - Platform: TyranoBuilder  
-  - Role: Story design, dialogue scripting (Episode 2)
-
-- 📖 **PoC Data Analysis Project**  
-  - Role: Consulting intern  
-  - Delivered insights using exploratory data analysis & ML
-
 ---
 
 ## 📊 GitHub Analytics
