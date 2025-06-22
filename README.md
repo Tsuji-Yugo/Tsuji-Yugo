@@ -7,28 +7,29 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+User+%F0%9F%91%8B;Flutter+Developer+%F0%9F%9A%80;Mobile+App+Enthusiast+%E2%9C%A8;Always+Learning+New+Things+%F0%9F%93%9A" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=2000&color=89F2FF&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Yugo+Tsuji+%F0%9F%91%8B;Web+Developer+%7C+Data+Scientist+%7C+Innovator;Exploring+Tech+to+Solve+Real+World+Problems;Student+%7C+Educator+in+the+making" />
 </div>
 
-## 🌟 **About Me**
+---
+
+## 🌟 About Me
 
 <div align="center">
 
 <table>
 <tr>
 <td width="200" align="center">
-<img src="https://skillicons.dev/icons?i=flutter" width="100" height="100" alt="Flutter" />
-<br><strong>Flutter</strong>
+<img src="https://skillicons.dev/icons?i=nextjs" width="100" height="100" />
+<br><strong>Next.js</strong>
 </td>
 <td width="400" align="left">
 
-### 👋 **Hi, I'm User!**
-🚀 **Flutter Developer** passionate about mobile development  
-
-🌍 **Location:** Japan 🇯🇵  
-💼 **Focus:** Building beautiful mobile applications  
-☕ **Powered by:** Coffee and curiosity  
-🎯 **Goal:** Creating amazing user experiences  
+### 👋 I'm Yugo Tsuji
+🚀 Information Engineering student at Kanazawa Institute of Technology  
+💡 Passionate about Web development, Data Science, and Educational Innovation  
+🌍 Based in Wakayama / Kanazawa  
+📚 Currently developing a point-based app with Hachiban Ramen 🍜  
+🧠 Learning how data and tech can transform education & society
 
 </td>
 </tr>
@@ -36,58 +37,90 @@
 
 </div>
 
-## 📊 **GitHub Analytics**
+---
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=user&theme=transparent&border_radius=10&starting_year=2020" alt="readme streak stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=user&custom_title=User's%20GitHub%20Activity%20Graph&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area=true&hide_border=true" />
-</div>
-
-## 🛠️ **Tech Stack**
+## 🛠️ Tech Stack
 
 <table align="center">
 <tr>
 <td width="50%" align="center" valign="top">
 
-### 📱  **Mobile Development**
-<img src="https://skillicons.dev/icons?i=flutter,dart" />
+### 🌐 Web Development
+<img src="https://skillicons.dev/icons?i=nextjs,react,js,ts,html,css" />
 
-### ☁️  **Backend as a Service (BaaS)**
-<img src="https://skillicons.dev/icons?i=supabase,firebase" />
+### 🔧 Tools & Platforms
+<img src="https://skillicons.dev/icons?i=vscode,github,docker,nginx,vercel,postman" />
 
-### 🔧  **Development Tools**
-<img src="https://skillicons.dev/icons?i=vscode,git,github,postman" />
+### ☁️ BaaS / Auth
+<img src="https://skillicons.dev/icons?i=firebase,supabase" />
 
 </td>
 <td width="50%" align="center" valign="top">
 
-### 🗄️  **Database**
-<img src="https://skillicons.dev/icons?i=postgresql,sqlite" />
+### 📊 Data Science & ML
+<img src="https://skillicons.dev/icons?i=python,sqlite,mysql" />
+<p>Using pandas, scikit-learn, matplotlib, seaborn etc.</p>
 
-### 🎨  **Design**
-<img src="https://skillicons.dev/icons?i=figma,xd,photoshop" />
+### 🎨 Design / UI
+<img src="https://skillicons.dev/icons?i=figma,xd" />
 
-### 💻  **Languages & Frameworks**
-<img src="https://skillicons.dev/icons?i=ruby,rails,js,ts,html,css" />
+### 📚 Others
+- GitHub Projects for PM
+- REST API design
+- ESLint / Prettier / CI basics
 
 </td>
 </tr>
 </table>
 
-## 🏆 **GitHub Trophies (Commits)**
+---
+
+## 🚀 Projects & Activities
+
+- 🍜 **Point App for Hachiban Ramen (KIT Project)**  
+  - Built with: Next.js, React, Docker, MySQL  
+  - Role: Frontend & backend developer  
+  - Purpose: Reward system for students and staff
+
+- 📈 **Soccer Data Analysis for Competitions**  
+  - Used: Python, pandas, matplotlib  
+  - Theme: Player positioning and goal correlation  
+
+- 🏫 **Educational Game (National Census Awareness)**  
+  - Platform: TyranoBuilder  
+  - Role: Story design, dialogue scripting (Episode 2)
+
+- 📖 **PoC Data Analysis Project**  
+  - Role: Consulting intern  
+  - Delivered insights using exploratory data analysis & ML
+
+---
+
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=user&theme=transparent&no-frame=true&no-bg=false&margin-w=4&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&title=Commit,Commits" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=user&theme=transparent&border_radius=10" />
+  <br><br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=user&custom_title=My%20GitHub%20Activity&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area=true&hide_border=true" />
 </div>
 
-## 💭 **Random Dev Quote**
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=user&theme=transparent&no-frame=true&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&title=Commits,Repositories,Followers" />
+</div>
+
+---
+
+## 💬 Random Dev Quote
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent" />
 </div>
+
+---
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&animation=twinkling" />
@@ -95,8 +128,8 @@
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
-  
-  **⭐ From [user](https://github.com/user) with ❤️**
-  
-  *"Flutter makes everything beautiful! 🦋"*
+
+  **⭐ From [yugo-tsuji](https://github.com/user) with ❤️**
+
+  _"Code to create, analyze to understand, teach to inspire."_
 </div>
